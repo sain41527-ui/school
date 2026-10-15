@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Academy - School Management System",
+  "description": "Comprehensive institutional school management platform for student records, attendance tracking, gradebooks, timetables, fee billing, and campus administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
